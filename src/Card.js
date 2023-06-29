@@ -19,7 +19,7 @@ export default function Card({ data }) {
                         <li className={data.isReports ? "" : "text-muted"}><span className="fa-li"><i className={data.isReports ? "fas fa-check" : "fas fa-times"}></i></span>{data.reports}</li>
                     </ul>
                     <div className="d-grid">
-                        <a href="#" className="btn btn-primary text-uppercase">Button</a>
+                        <a href=" " className="btn btn-primary text-uppercase">Button</a>
                     </div>
                 </div>
             </div>
